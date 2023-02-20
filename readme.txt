@@ -1,0 +1,1 @@
+Alle øvelser til ex3 og ex4 er i solution
