@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ex3_og_ex4/1.0.0": {
+        "runtime": {
+          "ex3_og_ex4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ex3_og_ex4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\45217\source\repos\ex3_og_ex4\CPR_checker\bin\Debug\net6.0\ex3_og_ex4.exe
+C:\Users\45217\source\repos\ex3_og_ex4\CPR_checker\bin\Debug\net6.0\ex3_og_ex4.deps.json
+C:\Users\45217\source\repos\ex3_og_ex4\CPR_checker\bin\Debug\net6.0\ex3_og_ex4.runtimeconfig.json
+C:\Users\45217\source\repos\ex3_og_ex4\CPR_checker\bin\Debug\net6.0\ex3_og_ex4.dll
+C:\Users\45217\source\repos\ex3_og_ex4\CPR_checker\bin\Debug\net6.0\ex3_og_ex4.pdb
+C:\Users\45217\source\repos\ex3_og_ex4\CPR_checker\obj\Debug\net6.0\ex3_og_ex4.csproj.AssemblyReference.cache
+C:\Users\45217\source\repos\ex3_og_ex4\CPR_checker\obj\Debug\net6.0\ex3_og_ex4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45217\source\repos\ex3_og_ex4\CPR_checker\obj\Debug\net6.0\ex3_og_ex4.AssemblyInfoInputs.cache
+C:\Users\45217\source\repos\ex3_og_ex4\CPR_checker\obj\Debug\net6.0\ex3_og_ex4.AssemblyInfo.cs
+C:\Users\45217\source\repos\ex3_og_ex4\CPR_checker\obj\Debug\net6.0\ex3_og_ex4.csproj.CoreCompileInputs.cache
+C:\Users\45217\source\repos\ex3_og_ex4\CPR_checker\obj\Debug\net6.0\ex3_og_ex4.dll
+C:\Users\45217\source\repos\ex3_og_ex4\CPR_checker\obj\Debug\net6.0\refint\ex3_og_ex4.dll
+C:\Users\45217\source\repos\ex3_og_ex4\CPR_checker\obj\Debug\net6.0\ex3_og_ex4.pdb
+C:\Users\45217\source\repos\ex3_og_ex4\CPR_checker\obj\Debug\net6.0\ex3_og_ex4.genruntimeconfig.cache
+C:\Users\45217\source\repos\ex3_og_ex4\CPR_checker\obj\Debug\net6.0\ref\ex3_og_ex4.dll
