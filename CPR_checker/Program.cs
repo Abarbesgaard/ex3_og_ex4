@@ -294,19 +294,19 @@ namespace ex3_og_ex4
                     switch (op)
                     {
                         case '+':
-                            //op = '+';
+                            
                             result += number;
                             index++;
                             break;
 
                         case '-':
-                            //op = '-';
+                            
                             result -= number;
                             index++;
                             break;
 
                         case '*':
-                            //op = '*';
+                            
                             result *= number;
                             index++;
                             break;
@@ -319,7 +319,7 @@ namespace ex3_og_ex4
                                 Console.WriteLine("Error: Division by zero.");
                                 return;
                             }
-                            //op = '/';
+                            
                             result /= number;
                             index++;
                             break;
